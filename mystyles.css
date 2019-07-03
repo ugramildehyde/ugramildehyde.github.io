@@ -1,0 +1,27 @@
+
+body {
+  text-align: center;
+  background-color:cornsilk;
+  font-family:helvetica;
+  border:4px dotted grey;
+  padding: 10px
+}
+h4 {color:cadetblue;}
+p {color:cadetblue;}
+h1 {text-align: center;color:cadetblue;font-size: 40px}
+h2 {color:cadetblue;}
+#title {text-align: center;color:cadetblue;font-size: 30px}
+button {
+  background-color: grey;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-family: helvetica;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: cadetblue;
+}
